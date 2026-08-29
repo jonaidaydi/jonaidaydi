@@ -17,7 +17,7 @@
   <g transform="translate(310 72)">
 
     <!-- Moien! -->
-    <text opacity="0" fill="#E67E22">
+    <text opacity="0" style="fill:#E67E22">
       Moien!
 
       <animate
@@ -40,7 +40,7 @@
 
 
     <!-- Selam! -->
-    <text opacity="0" fill="#D97706">
+    <text opacity="0" style="fill:#D97706">
       Selam!
 
       <animate
@@ -63,7 +63,7 @@
 
 
     <!-- Bonjour! -->
-    <text opacity="0" fill="#F97316">
+    <text opacity="0" style="fill:#F97316">
       Bonjour!
 
       <animate
@@ -86,7 +86,7 @@
 
 
     <!-- Hey! -->
-    <text opacity="0" fill="#C96A10">
+    <text opacity="0" style="fill:#C65F0A">
       Hey!
 
       <animate
@@ -108,9 +108,9 @@
     </text>
 
 
-    <!-- Mahlzeit! -->
-    <text opacity="0" fill="#E85D04">
-      Mahlzeit!
+    <!-- Salam! -->
+    <text opacity="0" style="fill:#E85D04">
+      Salam!
 
       <animate
         attributeName="opacity"
