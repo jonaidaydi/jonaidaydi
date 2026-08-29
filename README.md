@@ -11,7 +11,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=27&pause=1200&color=E3B341&center=true&vCenter=true&width=620&height=50&lines=Jonaid+Aydi;Computer+Linguist;Building+small+tools+with+big+utility;Local+AI+%E2%80%A2+Privacy+%E2%80%A2+Automation;Self-hosted+when+possible.;Mangoki.de"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2200&pause=900&color=E3B341&center=true&vCenter=true&width=620&height=50&lines=Jonaid+Aydi;Computer+Linguist;Building+small+tools+with+big+utility;Local+AI+%E2%80%A2+Privacy+%E2%80%A2+Automation;Self-hosted+when+possible.;Mangoki.de"
     alt="Typing introduction"
   />
 </p>
