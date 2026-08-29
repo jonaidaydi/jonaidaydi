@@ -16,7 +16,7 @@
 
   <g transform="translate(310 72)">
 
-    <!-- Moien! -->
+    <!-- Hey! -->
     <text opacity="0" style="fill:#E67E22">
       Moien!
 
@@ -37,30 +37,6 @@
         repeatCount="indefinite"
       />
     </text>
-
-
-    <!-- Selam! -->
-    <text opacity="0" style="fill:#D97706">
-      Selam!
-
-      <animate
-        attributeName="opacity"
-        values="0;0;1;1;0;0"
-        keyTimes="0;0.20;0.22;0.38;0.40;1"
-        dur="25s"
-        repeatCount="indefinite"
-      />
-
-      <animateTransform
-        attributeName="transform"
-        type="translate"
-        values="0 14;0 14;0 0;0 0;0 -10;0 -10"
-        keyTimes="0;0.20;0.22;0.38;0.40;1"
-        dur="25s"
-        repeatCount="indefinite"
-      />
-    </text>
-
 
     <!-- Bonjour! -->
     <text opacity="0" style="fill:#F97316">
@@ -85,9 +61,9 @@
     </text>
 
 
-    <!-- Hey! -->
+    <!-- Moien! -->
     <text opacity="0" style="fill:#C65F0A">
-      Hey!
+      Moien!
 
       <animate
         attributeName="opacity"
@@ -107,10 +83,33 @@
       />
     </text>
 
+    
+    <!-- Selam! -->
+    <text opacity="0" style="fill:#D97706">
+      Selam!
 
-    <!-- Salam! -->
+      <animate
+        attributeName="opacity"
+        values="0;0;1;1;0;0"
+        keyTimes="0;0.20;0.22;0.38;0.40;1"
+        dur="25s"
+        repeatCount="indefinite"
+      />
+
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="0 14;0 14;0 0;0 0;0 -10;0 -10"
+        keyTimes="0;0.20;0.22;0.38;0.40;1"
+        dur="25s"
+        repeatCount="indefinite"
+      />
+    </text>
+
+
+    <!-- Willkommen! -->
     <text opacity="0" style="fill:#E85D04">
-      Salam!
+      Willkommen!
 
       <animate
         attributeName="opacity"
