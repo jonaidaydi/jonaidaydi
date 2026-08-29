@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/jonaidaydi">
     <img
-      src="./assets/greeting.svg"
+      src="./assets/greetings.svg"
       width="620"
       height="95"
       alt="Multilingual greeting"
