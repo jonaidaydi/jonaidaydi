@@ -1,26 +1,24 @@
 <p align="center">
   <a href="https://github.com/jonaidaydi">
     <img
-      src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=58&height=95&width=500&text=Moien!"
-      alt="Moien!"
+      src="./assets/greeting.svg"
+      width="620"
+      height="95"
+      alt="Multilingual greeting"
     />
   </a>
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=27&pause=1200&color=E3B341&center=true&vCenter=true&width=620&height=50&lines=Jonaid+Aydi;Computer+Linguist;Building+small+tools+with+big+utility;Local+AI+%E2%80%A2+Privacy+%E2%80%A2+Automation;Self-hosted+when+possible.;Mangoki.de;"
+    src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=27&pause=1200&color=E3B341&center=true&vCenter=true&width=620&height=50&lines=Jonaid+Aydi;Computer+Linguist;Building+small+tools+with+big+utility;Local+AI+%E2%80%A2+Privacy+%E2%80%A2+Automation;Self-hosted+when+possible.;Mangoki.de"
     alt="Typing introduction"
   />
 </p>
 
 <p align="center">
-  <a href="https://www.mangoki.de">
-    <img src="https://img.shields.io/badge/mangoki.de-Portfolio-2ea043?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://github.com/jonaidaydi">
-    <img src="https://img.shields.io/github/followers/jonaidaydi?label=Follow&style=flat-square&logo=github" alt="GitHub followers">
-  </a>
+  <img src="https://img.shields.io/badge/mangoki.de-Portfolio-2ea043?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">&nbsp;
+  <img src="https://img.shields.io/github/followers/jonaidaydi?label=Follow&style=flat-square&logo=github" alt="GitHub followers">
 </p>
 
 ---
@@ -29,10 +27,11 @@
 
 <p align="center">
   <img
-    height="165"
-    src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=jonaidaydi&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true&hide_rank=true"
-    alt="GitHub stats"
+    src="https://streak-stats.demolab.com?user=jonaidaydi&theme=tokyonight&hide_border=true&background=00000000&ring=2EA043&fire=E3B341&currStreakLabel=2EA043"
+    alt="GitHub streak"
   />
+</p>
+
   <img
     height="165"
     src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=jonaidaydi&layout=compact&theme=tokyonight&title_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8"
@@ -42,8 +41,9 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=jonaidaydi&theme=tokyonight&hide_border=true&background=00000000&ring=2EA043&fire=E3B341&currStreakLabel=2EA043"
-    alt="GitHub streak"
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jonaidaydi&theme=github_dark"
+    alt="GitHub contribution overview"
   />
 </p>
 
@@ -175,9 +175,7 @@ Some of the things I'm experimenting with include:
 ## Find me
 
 <p align="center">
-  <a href="https://www.mangoki.de">
-    <img src="https://img.shields.io/badge/mangoki.de-Visit%20my%20website-2ea043?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website">
-  </a>
+  <a href="https://www.mangoki.de"><img src="https://img.shields.io/badge/mangoki.de-Visit%20my%20website-2ea043?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website"></a>
 </p>
 
 ---
@@ -187,4 +185,3 @@ Some of the things I'm experimenting with include:
     Build small. Keep it useful. Keep control of your data.
   </sub>
 </p>
-
