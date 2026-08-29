@@ -9,7 +9,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=27&pause=1200&color=E3B341&center=true&vCenter=true&width=620&height=50&lines=Jonaid+Aydi+%E2%80%94+Computer+Linguist;Building+small+tools+with+big+utility;Local+AI+%E2%80%A2+Privacy+%E2%80%A2+Automation;Self-hosted+when+possible."
+    src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=27&pause=1200&color=E3B341&center=true&vCenter=true&width=620&height=50&lines=Jonaid+Aydi;Computer+Linguist;Building+small+tools+with+big+utility;Local+AI+%E2%80%A2+Privacy+%E2%80%A2+Automation;Self-hosted+when+possible.;Mangoki.de;"
     alt="Typing introduction"
   />
 </p>
@@ -50,9 +50,11 @@
 
 ---
 
-## 🚀 About me
+## About me
 
-I like building software that solves actual problems.
+I build software that solves actual problems. I don't want technology to create another layer of complexity.
+
+I want it to **remove one**.
 
 My projects usually start with a simple thought:
 
@@ -60,31 +62,31 @@ My projects usually start with a simple thought:
 
 That tends to turn into small utilities, automation, local-first applications, privacy tools, APIs, or experiments with local AI.
 
-I am especially interested in software that is **fast, understandable, self-hostable and useful without depending on unnecessary cloud services**.
+I am especially interested in software that is fast, understandable, **self-hostable** and useful **without depending on unnecessary cloud services**.
 
 <table>
 <tr>
-<td>🔭 <b>Building</b></td>
+<td><b>Building</b></td>
 <td>local-first utilities, automation, AI workflows & privacy tools</td>
 </tr>
 
 <tr>
-<td>🌱 <b>Learning</b></td>
+<td><b>Learning</b></td>
 <td>systems engineering, networking, local AI infrastructure & scalable architecture</td>
 </tr>
 
 <tr>
-<td>🧠 <b>Interested in</b></td>
+<td><b>Connecting</b></td>
 <td>local AI, Ollama, self-hosting, infrastructure & developer tooling</td>
 </tr>
 
 <tr>
-<td>🤝 <b>Open to</b></td>
+<td><b>Open to</b></td>
 <td>interesting open-source projects and useful collaborations</td>
 </tr>
 
 <tr>
-<td>⚡ <b>Side effect</b></td>
+<td><b>Side effect</b></td>
 <td>small everyday annoyances have a tendency to become GitHub repositories</td>
 </tr>
 </table>
@@ -117,14 +119,13 @@ mini-tools/
 
 Some of the things I'm experimenting with include:
 
-- 🧹 image metadata inspection & selective removal
-- 🖼️ favicon / asset generation
-- 🔳 QR utilities
-- 📚 ISBN & metadata lookup tools
-- 🤖 local AI workflows
-- 🏠 self-hosted services
-- ⚙️ small automation utilities
-- 🌐 offline-capable / local-first applications
+- Image metadata inspection
+- QR utilities
+- ISBN & metadata lookup tools
+- Local AI workflows
+- Self-hosted services
+- Small automation utilities
+- Offline-capable / local-first applications
 
 ---
 
@@ -171,28 +172,7 @@ Some of the things I'm experimenting with include:
 
 ---
 
-## 🧭 How I like to build
-
-```text
-Simple > complicated
-
-Local > unnecessarily cloud-dependent
-
-Fast > bloated
-
-Useful > impressive-looking
-
-Privacy by design > privacy as an afterthought
-```
-
-I don't want technology to create another layer of complexity.
-
-I want it to **remove one**.
-
-
----
-
-## 🌍 Find me
+## Find me
 
 <p align="center">
   <a href="https://www.mangoki.de">
